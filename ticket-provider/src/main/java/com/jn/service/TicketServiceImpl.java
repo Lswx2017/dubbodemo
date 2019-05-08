@@ -2,7 +2,7 @@ package com.jn.service;
 
 
 import org.apache.dubbo.config.annotation.Service;
-import sun.misc.Version;
+
 
 @Service
 public class TicketServiceImpl  implements TicketService  {
